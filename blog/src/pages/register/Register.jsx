@@ -1,4 +1,4 @@
-import "./register.css"
+import "./register.css";
 
 export default function Register() {
     return (
@@ -15,5 +15,5 @@ export default function Register() {
       </form>
         <button className="registerLoginButton">Login</button> 
         </div>
-    )
+    );
 }
