@@ -21,9 +21,6 @@ function App() {
       <Route path="/posts">
         <Home />
       </Route>
-      <Route path="/register">
-        {currentUser ? <Home /> : <Register />}
-      </Route>
       <Route path="/login">{currentUser ? <Home /> : <Login />}</Route>
       <Route path="/post/:id">
         <Single />
