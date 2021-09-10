@@ -24,6 +24,14 @@ function App() {
      <Route path="/register">
         {currentUser ? <Home /> : <Register />}
       </Route>
+     <Route path="/login">{currentUser ? <Home /> : <Login />}</Route>
+      <Route path="/post/:id">
+        <Single />
+      </Route>
+      <Route path="/write">{currentUser ? <Write /> : <Login />}</Route>
+      <Route path="/settings">
+        {currentUser ? <Settings /> : <Login />}
+      </Route>
     </Switch>
   </Router>
   );
