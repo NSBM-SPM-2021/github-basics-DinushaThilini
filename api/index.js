@@ -50,7 +50,7 @@ app.use("/api/usezrs", userRoute);
 app.use("/api/posts", postRoute);
 app.use("/api/categories", categoryRoute);
 
-app.listen("5000", () => {
+app.listen("8080", () => {
     console.log("Backend is running.");
 });
 
