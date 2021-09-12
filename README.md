@@ -20,6 +20,8 @@ https://trello.com/invite/b/ReqB4uAi/2f2274d4383d55299ca05ac821b12836/blog
 
 ![trelloboard](https://user-images.githubusercontent.com/60134922/132995656-3c45213e-d194-45bc-acf1-cce7f35ed290.png)
 
+![trello2](https://user-images.githubusercontent.com/60134922/132996319-b8a78fed-fb8e-412f-9ea5-322789ff368c.png)
+
 
 ### Heroku / netlify
 
